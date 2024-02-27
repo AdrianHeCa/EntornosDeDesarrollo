@@ -1,0 +1,23 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "gradle",
+			"id": "c:\\Users\\adria\\Documents\\DAM - 1º\\EDD\\GitHub\\Java\\Gradle\\GradleTestsapp:buildapp",
+			"script": "app:build",
+			"description": "Assembles and tests this project.",
+			"group": "build",
+			"project": "app",
+			"buildFile": "C:\\Users\\adria\\Documents\\DAM - 1º\\EDD\\GitHub\\Java\\Gradle\\GradleTests\\app\\build.gradle",
+			"rootProject": "GradleTests",
+			"projectFolder": "c:\\Users\\adria\\Documents\\DAM - 1º\\EDD\\GitHub\\Java\\Gradle\\GradleTests",
+			"workspaceFolder": "c:\\Users\\adria\\Documents\\DAM - 1º\\EDD\\GitHub\\Java\\Gradle\\GradleTests",
+			"args": "",
+			"javaDebug": false,
+			"problemMatcher": [
+				"$gradle"
+			],
+			"label": "gradle: app:build"
+		}
+	]
+}
